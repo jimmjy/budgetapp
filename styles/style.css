@@ -70,12 +70,17 @@ body {
 }
 
 .budget__income {
+    width: 48%;
+    float: left;
     margin-bottom: 10px;
-    background-color: #28B9B5;
+    background-color: rgb(66, 143, 107);
 }
 
 .budget__expenses {
-    background-color: #FF5049;
+    width: 48%;
+    float: right;
+    margin-bottom: 10px;
+    background-color: rgb(192, 190, 99);
 }
 
 .budget__income--text,
